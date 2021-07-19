@@ -1,2 +1,6 @@
 new file on feature1 branch
+
 updated in feature2
+and
+update din gitHub
+
